@@ -19,7 +19,7 @@ except Exception:
 from PIL import Image, ImageTk, ImageOps
 
 # Poné acá la dirección de tu propio servidor (ver server.js en este repo)
-SERVIDOR = "wss://TU-SERVIDOR-AQUI"
+SERVIDOR = "wss://episode-vessels-signals-liberty.trycloudflare.com"
 VERSION = "V.1.0.1.0"
 
 ctk.set_appearance_mode("dark")
