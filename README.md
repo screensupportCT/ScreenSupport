@@ -30,3 +30,5 @@ Esta app está en desarrollo activo y cualquiera puede ayudar a mejorarla. Desca
 ---
 
 Hecho aprendiendo a programar, un paso a la vez. 🚀
+
+⚠️ En caso de usar la app y que el servidor no esté activo contáctame,con gusto te proporcionare el server para que hagas uso de el y asegurarnos que todo esté funcionando.
