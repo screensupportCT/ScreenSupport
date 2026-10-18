@@ -19,7 +19,7 @@ pyautogui.FAILSAFE = False
 pyautogui.PAUSE = 0
 
 # Poné acá la dirección de tu propio servidor (ver server.js en este repo)
-SERVIDOR = "wss://TU-SERVIDOR-AQUI"
+SERVIDOR = "wss://episode-vessels-signals-liberty.trycloudflare.com"
 ANCHO_PANTALLA, ALTO_PANTALLA = pyautogui.size()
 
 ctk.set_appearance_mode("dark")
